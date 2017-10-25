@@ -1,0 +1,7 @@
+*.tfstate
+.terraform*
+*.tfstate.backup
+terraform.tfvars
+certs
+*.swp
+*.tar.gz
